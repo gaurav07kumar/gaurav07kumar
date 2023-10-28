@@ -4,7 +4,7 @@
   <a href="https://github.com/gaurav07kumar">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23D9CF36&size=25&center=true&vCenter=true&width=600&height=80&lines=B.Tech+Student+@+IIT+Mandi;Software+Developer;Competitive+Programmer;Machine+Learning+Enthusiast">
   </a>
-  <img src=https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif>
+  <picture><img align="centre" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width = 500px></picture>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me

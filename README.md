@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Gaurav Kumar </h1>
 <p align="center">
   <a href="https://github.com/gaurav07kumar">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23D9CF36&size=25&center=true&vCenter=true&width=600&height=80&lines=B.Tech+Student+@+IIT+Mandi;Software+Developer;Competitive+Programmer;Machine+Learning+Enthusiast">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23D9CF36&size=25&center=true&vCenter=true&width=600&height=80&lines=M.E+Student+@+BITS+Pilani;VLSI+Design+and+Microelectronics;Analog+Intern+at+Texas+Instruments;Machine+Learning+Enthusiast">
   </a>
   <picture><img align="centre" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width = 500px></picture>
 </p>
